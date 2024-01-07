@@ -16,23 +16,23 @@
 
 `pkg install python -y`
 
-`git clone https://github.com/Filtering-Rubika-Ryson/Filter-Rubika-Ryson`
+`git clone https://github.com/Salari-info/anti-filter/`
 
-`cd Filter-Rubika-Ryson`
+`cd anti-filter`
 
 
-`python Filtering.py`
+`python main.py`
 
 
 # installing the kali:
 
 `sudo apt-get install python`
 
-`git clone https://github.com/filtering-rubika-ryson/Filter-Rubika-Ryson`
+`git clone https://github.com/Salari-info/anti-filter/`
 
-`cd Filter-Rubika-Ryson`
+`cd anti-filter`
 
-`python3 Filtering.py`
+`python3 main.py`
 
 
 
